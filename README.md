@@ -153,7 +153,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 #### 4 - Segmento com maior influência no valor médio de venda
 
 <p>
-	<img src="https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/04-maior-influencia-valor-medio-de-vendas.png" alt="maior-influencia-valor-medio-de-vendas" width="611" height="274 />
+	<img src="https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/04-maior-influencia-valor-medio-de-vendas.png" alt="maior-influencia-valor-medio-de-vendas" width="611" height="274" />
 </p>
 
 
