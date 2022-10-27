@@ -83,7 +83,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 - **Modelo Star Schema**
 	
 	<p>
-		<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/modelo-star-schema.png" alt="modelo-star-schema"/>
+		<img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/modelo-star-schema.png" alt="modelo-star-schema"/>
 	</p>
 	
 	- **Tabelas DIM** são as dimensões que representam as entidades em nosso
@@ -99,7 +99,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
   e tabela FATO, tomando o cuidado de remover registros duplicados (PK).
 
   <p>
-  	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/tabelas-DIM-tabela-FATO.png" alt="tabelas-DIM-tabela-FATO"/>
+  	<img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/tabelas-DIM-tabela-FATO.png" alt="tabelas-DIM-tabela-FATO"/>
   </p>
 
   Após a criação das tabelas, gerenciamos os relacionamentos entre as mesmas. Por 
@@ -107,7 +107,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
   com a tabela FATO que se posiciona ao centro.
 
   <p>
-  	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/acriando-relacionamentos.png" alt="criando-relacionamentos"/>
+  	<img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/acriando-relacionamentos.png" alt="criando-relacionamentos"/>
   </p>
 
 
@@ -126,7 +126,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 #### 1 - Fabricante com melhor desempenho nas vendas
 
 <p>
-	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/01-total-vendas-por-fabricante.png" alt="total-vendas-por-fabricante"  width="611px" height="275px"/>
+	<img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/01-total-vendas-por-fabricante.png" alt="total-vendas-por-fabricante"  width="611px" height="275px"/>
 </p>
 
 
@@ -135,7 +135,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 #### 2 - Total de vendas por estado e por categoria
 
 <p>
-	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/02-total-vendas-por-categoria-nos-estados.png" alt="total-vendas-por-categoria-nos-estados" width="612" height="275" />
+	<img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/02-total-vendas-por-categoria-nos-estados.png" alt="total-vendas-por-categoria-nos-estados" width="612" height="275" />
 </p>
 
 
@@ -144,7 +144,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 #### 3 - Total de vendas por segmento
 
 <p>
-	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/03-total-vendas-por-segmento.png" alt="total-vendas-por-segmento" width="612" height="275" />
+	<img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/03-total-vendas-por-segmento.png" alt="total-vendas-por-segmento" width="612" height="275" />
 </p>
 
 
@@ -153,7 +153,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 #### 4 - Segmento com maior influência no valor médio de venda
 
 <p>
-	<img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/04-maior-influencia-valor-medio-de-vendas.png" alt="maior-influencia-valor-medio-de-vendas" width="611" height="274 />
+	<img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/04-maior-influencia-valor-medio-de-vendas.png" alt="maior-influencia-valor-medio-de-vendas" width="611" height="274 />
 </p>
 
 
@@ -162,7 +162,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 #### Dashboard de Suporte de Vendas
 
 <p style="margin: 0px 0px;">
-    <img src="https://github.com/Vinicius999/Dashboard-de-Vendas/blob/main/images/00-Dashoard.png" alt="Dashoard"/>
+    <img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/00-Dashoard.png" alt="Dashoard"/>
     </a>
 </p>
 
