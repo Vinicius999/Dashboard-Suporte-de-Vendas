@@ -83,8 +83,9 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 - **Modelo Star Schema**
 	
 	<p>
-		<img src="https://github.com/Vinicius999/https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/modelo-star-schema.png" alt="modelo-star-schema"/>
+		<img src="https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/modelo-star-schema.png" alt="modelo-star-schema" />
 	</p>
+	
 	
 	- **Tabelas DIM** são as dimensões que representam as entidades em nosso
 	problema de negócio e que classificam os dados;
@@ -107,7 +108,7 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
   com a tabela FATO que se posiciona ao centro.
 
   <p>
-  	<img src="https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/acriando-relacionamentos.png" alt="criando-relacionamentos"/>
+  	<img src="https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/criando-relacionamentos.png" alt="criando-relacionamentos" />
   </p>
 
 
@@ -167,4 +168,3 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
     <img src="https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/00-Dashoard.png" alt="Dashoard"/>
     </a>
 </p>
-
