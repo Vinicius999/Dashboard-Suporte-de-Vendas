@@ -95,18 +95,17 @@ Modelo criado no Data Warehouse ou no Power BI (mais simples)
 	- **FK** é a Chave Estrangeira (Foreign Key) que referencia a Chave Primária
 	de outra tabela;
 	
-- **Criando Modelo**
+- **Criando Modelo** <br>
   Após carregar e realizar os tratamentos iniciais nos dados, criamos as tabelas DIM
   e tabela FATO, tomando o cuidado de remover registros duplicados (PK).
 
   <p>
   	<img src="https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/tabelas-DIM-tabela-FATO.png" alt="tabelas-DIM-tabela-FATO"/>
   </p>
-
   Após a criação das tabelas, gerenciamos os relacionamentos entre as mesmas. Por 
   se tratar de um modelo Star Schema, todas as tabelas DIM se relacionama diretamente
   com a tabela FATO que se posiciona ao centro.
-
+  
   <p>
   	<img src="https://github.com/Vinicius999/Dashboard-Suporte-de-Vendas/blob/main/images/criando-relacionamentos.png" alt="criando-relacionamentos" />
   </p>
